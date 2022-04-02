@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width=600 />
+
 <h1 align="center">Hi 👋, I'm amine rakibe</h1>
 <h3 align="center">A 1337 Student</h3>
 
@@ -28,3 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrakibe&" alt="amrakibe" /></p>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/binary/amrakibe" alt="amrakibe's 42 stats" /></a>
+</div>
