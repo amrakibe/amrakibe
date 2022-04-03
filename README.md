@@ -3,6 +3,7 @@
 
 <h1>Hi 👋, I'm amine rakibe</h1>
 <h3>A 1337 Student</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/binary/amrakibe" alt="amrakibe's 42 stats" /></a>
 
 <p> <img src="https://komarev.com/ghpvc/?username=amrakibe&label=Profile%20views&color=0e75b6&style=flat" alt="amrakibe" /> </p>
 
@@ -29,6 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrakibe&show_icons=true&locale=en" alt="amrakibe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrakibe&" alt="amrakibe" /></p>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/binary/amrakibe" alt="amrakibe's 42 stats" /></a>
 </div>
