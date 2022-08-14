@@ -5,7 +5,7 @@
 <h3>A 1337 Student</h3>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/binary/amrakibe" alt="amrakibe's 42 stats" /></a>
 
-<p> <img src="https://komarev.com/ghpvc/?username=amrakibe&label=Profile%20views&color=0e75b6&style=flat" alt="amrakibe" /> </p>
+
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrakibe" alt="amrakibe" /></a> </p>
 
