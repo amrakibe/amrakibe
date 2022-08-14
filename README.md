@@ -6,8 +6,6 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrakibe" alt="amrakibe" /></a> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrakibe" alt="amrakibe" /></a> </p>
-
 <p> <a href="https://twitter.com/aminerakib2" target="blank"><img src="https://img.shields.io/twitter/follow/aminerakib2?logo=twitter&style=for-the-badge" alt="aminerakib2" /></a> </p>
 
 🌱 C language, C++, HTML, CSS, JavaScript **ReactJS**
