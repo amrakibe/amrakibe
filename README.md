@@ -4,6 +4,8 @@
 <h1>Hi 👋, I'm amine rakibe</h1>
 <h3>A 1337 Student</h3>
 
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c059d53321a451427c1d549524a3708af3a4d2693f36b8aee35e192917c2d075/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d72616b696265266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/c059d53321a451427c1d549524a3708af3a4d2693f36b8aee35e192917c2d075/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d72616b696265266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="amrakibe" data-canonical-src="https://komarev.com/ghpvc/?username=amrakibe&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+  
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrakibe" alt="amrakibe" /></a> </p>
 
 <p> <a href="https://twitter.com/aminerakib2" target="blank"><img src="https://img.shields.io/twitter/follow/aminerakib2?logo=twitter&style=for-the-badge" alt="aminerakib2" /></a> </p>
