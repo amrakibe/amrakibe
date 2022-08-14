@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width=600 />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=600 />
 
 <h1>Hi 👋, I'm amine rakibe</h1>
 <h3>A 1337 Student</h3>
