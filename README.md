@@ -4,8 +4,6 @@
 
 [![amrakibe's 42 stats](https://badge.mediaplus.ma/greenbinary/amrakibe)](https://github.com/oakoudad/badge42)
 
-<p> <a href="https://twitter.com/aminerakib2" target="blank"><img src="https://img.shields.io/twitter/follow/aminerakib2?logo=twitter&style=for-the-badge" alt="aminerakib2" /></a> </p> 
-
 <h1 align="center">
 	Academic Background - 1337
 </h1>
@@ -66,10 +64,9 @@ thus "cadets" (42's students).
 
 🌱 C language, C++, HTML, CSS, JavaScript **ReactJS**
 
-📫 How to reach me **aminerakibe7@gmail.com**
-
 <h3>Connect with me:</h3>
 <p>
+📫 How to reach me **aminerakibe7@gmail.com**
 <a href="https://twitter.com/AMINERAKIB2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminerakib2" height="30" width="40" /></a>
 <!-- <a href="https://www.facebook.com/people/Rakibe-Amine/100039255220746/><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amine rakibe" height="30" width="40" /></a> -->
 <a href="https://discord.gg/Ꭿ ᎷᎥᏁᎬ#7474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ꭿ ᎷᎥᏁᎬ#7474" height="30" width="40" /></a>
