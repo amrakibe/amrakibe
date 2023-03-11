@@ -6,7 +6,7 @@
 
 <p> <a href="https://twitter.com/aminerakib2" target="blank"><img src="https://img.shields.io/twitter/follow/aminerakib2?logo=twitter&style=for-the-badge" alt="aminerakib2" /></a> </p> 
 
-	<h1 align="center">
+<h1 align="center">
 	Academic Background - 1337
 </h1>
 
